@@ -1,0 +1,11 @@
+inputs: 
+    salesperson's name 
+    salesperson's number
+    weekly sales
+output:-
+    salesperson's name
+    salesperson's number
+    pay
+
+each person recive a base weekly pay of $300
+10% commission on his or her total sales
